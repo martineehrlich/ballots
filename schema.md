@@ -21,8 +21,10 @@ id     | permissions
 
 ## ballots
 id    | location |
-------|----------|----------
-
+------|----------|
+1     |    SF    |
+2     |    NY    |
+3     |    LA    |
 
 ##office_types
 id    | name     |
